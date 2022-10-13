@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DFGANDP
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Finding similarities in data
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 DFGANDP/DFGANDP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
