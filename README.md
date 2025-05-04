@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning to **deploy new, big projects to world**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DFGANDP?tab=repositories](https://github.com/DFGANDP?tab=repositories)
+- 👨‍💻 All of my open-source projects are available at [https://github.com/DFGANDP?tab=repositories](https://github.com/DFGANDP?tab=repositories)
 
 - 📫 How to reach me **wojtek.wal99@gmail.com**
 
