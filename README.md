@@ -26,11 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dfgandp&show_icons=true&locale=en" alt="dfgandp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfgandp&" alt="dfgandp" /></p>
-
-<a href="https://github.com/DFGANDP/Scrapy-Reddit-Miner">
-  <div align="left">
-    <strong>🧠 Scrapy-Reddit-Miner</strong><br>
-    <em>Zaawansowany crawler Reddita z proxy, rotacją UA i NLP postprocessorem.</em><br><br>
-    <img src="https://img.shields.io/github/stars/DFGANDP/Scrapy-Reddit-Miner?style=social" />
-  </div>
-</a>
