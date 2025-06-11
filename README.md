@@ -27,8 +27,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfgandp&" alt="dfgandp" /></p>
 
-<details>
-  <summary><strong>⭐ Najbardziej gwiazdkowane: <repo-name></strong></summary>
-  <p><em>Krótki opis repo…</em></p>
-  [![Stars](https://img.shields.io/github/stars/DFGANDP/<repo>?style=social)](https://github.com/DFGANDP/Rotnet-Captcha-Solver)
-</details>
+<a href="https://github.com/DFGANDP/Scrapy-Reddit-Miner">
+  <div align="left">
+    <strong>🧠 Scrapy-Reddit-Miner</strong><br>
+    <em>Zaawansowany crawler Reddita z proxy, rotacją UA i NLP postprocessorem.</em><br><br>
+    <img src="https://img.shields.io/github/stars/DFGANDP/Scrapy-Reddit-Miner?style=social" />
+  </div>
+</a>
