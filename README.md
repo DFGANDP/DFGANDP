@@ -26,3 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dfgandp&show_icons=true&locale=en" alt="dfgandp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfgandp&" alt="dfgandp" /></p>
+
+<details>
+  <summary><strong>⭐ Najbardziej gwiazdkowane: <repo-name></strong></summary>
+  <p><em>Krótki opis repo…</em></p>
+  [![Stars](https://img.shields.io/github/stars/DFGANDP/<repo>?style=social)](https://github.com/DFGANDP/Rotnet-Captcha-Solver)
+</details>
